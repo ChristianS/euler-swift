@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:problem010.swift">
+   </FileRef>
+   <FileRef
+      location = "group:problem009.swift">
+   </FileRef>
+   <FileRef
       location = "group:problem008.swift">
    </FileRef>
    <FileRef
