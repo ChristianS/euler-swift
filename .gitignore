@@ -1,2 +1,8 @@
+# macOS-specific files
+.DS_Store
+
+# IDEs
+.vscode/
 xcuserdata/
 *.playground
+.zed/
